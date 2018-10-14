@@ -42,7 +42,7 @@ Ce TD a pour objectif de :
 
 2) tag the previous image
 
-    docker tag image username/repository:tag
+    docker tag [yourName] username/repository:tag
 
 3) push the image
 
