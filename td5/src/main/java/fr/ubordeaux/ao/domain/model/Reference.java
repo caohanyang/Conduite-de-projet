@@ -11,10 +11,10 @@ public class Reference {
     private String description;
     private Price basePrice;
 
-    public Reference(String id, String name, String description, Price basePrice) {
+    public Reference(String id, String name, String desc, Price basePrice) {
         this.setReferenceId(id);
         this.setName(name);
-        this.setDescription(description);
+        this.setDescription(desc);
         this.setBasePrice(basePrice);
     }
 
